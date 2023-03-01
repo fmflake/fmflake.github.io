@@ -4,10 +4,14 @@ title: Now
 permalink: /now/
 ---
 
-WHAT I AM DOING NOW
+Last updated: 2023 Feb 28
 
-- Writing automation code
-- Building this website
+- Try to build this website
 
-Why [now page](https://nownownow.com/about)?
+- Challenge myself to do exercise everyday
+
+- Reading: An Enquiry Concerning Human Understanding - David Hume
+
+
+What is a [now page](https://nownownow.com/about)?
 
