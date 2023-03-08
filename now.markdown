@@ -8,7 +8,7 @@ Last updated: 2023/03/05
 
 - Try to build this website
 
-- Challenge myself to do exercise everyday - 1 day of continuous burpees
+- Challenge myself to do exercise everyday
 
 - Reading: An Enquiry Concerning Human Understanding - David Hume
 
